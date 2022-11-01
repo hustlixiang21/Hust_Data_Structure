@@ -1,0 +1,3 @@
+/Users/lixiang/Desktop/CS/数据结构实验课/2_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lixiang/Desktop/CS/数据结构实验课/2_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lixiang/Desktop/CS/数据结构实验课/2_2/cmake-build-debug/CMakeFiles/2_2.dir
