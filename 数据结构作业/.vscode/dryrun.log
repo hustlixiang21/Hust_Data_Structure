@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/lixiang/Desktop/cpp-practice'
+make: Leaving directory `/Users/lixiang/Desktop/cpp-practice'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
